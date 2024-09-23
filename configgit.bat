@@ -1,3 +1,0 @@
-cmdkey /delete git:https://github.com
-git config --global user.name "evelyn soares zagolino"
-git config --global user.email "evelyn.zagolino@estudante.ifms.edu.br"
